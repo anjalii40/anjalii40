@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anjali Prajapati
 
-## Full Stack Developer | Aspiring SDE
+## NIT Agartala'27 | Full Stack Developer | Aspiring SDE
 
 Passionate about building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
 
@@ -18,7 +18,6 @@ Open to SDE internships
 
 Email: anjaliiprajapati04@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b)  
-GitHub: https://github.com/anjalii40
 
 ---
 
@@ -74,7 +73,6 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Socket.io Client](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ## Backend
 
@@ -101,4 +99,5 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 ## Core CS
 
 Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals | System Design
+
 
