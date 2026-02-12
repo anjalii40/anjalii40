@@ -1,4 +1,4 @@
-# Backend Engineer | Systems Design Specialist
+# Hi , I'm Anjali Prajapati
 
 Building reliable, scalable backend systems with a focus on data consistency and real-time architecture.
 
@@ -59,10 +59,4 @@ Real-time systems | Backend architecture | Data consistency | Scalable API desig
 
 Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals
 
----
 
-## Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjalii40&theme=default&hide_border=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjalii40&theme=default&hide_border=true&layout=compact)
