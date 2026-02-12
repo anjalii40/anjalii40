@@ -1,8 +1,10 @@
 <div align="center">
 
 # 👋 Hi, I'm Anjali Prajapati
+
+## NITA'27 | Full Stack Developer | Aspiring SDE
+
 </div>
-## NIT Agartala'27 | Full Stack Developer | Aspiring SDE
 
 Passionate about building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
 
@@ -18,6 +20,7 @@ Open to SDE internships
 
 Email: anjaliiprajapati04@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b)  
+GitHub: https://github.com/anjalii40
 
 ---
 
@@ -99,6 +102,4 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 ## Core CS
 
 Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals | System Design
-
-
 
