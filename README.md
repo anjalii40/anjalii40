@@ -1,10 +1,14 @@
-# Hi, I'm Anjali Prajapati
+<div align="center">
 
-## Backend Engineer | Systems Design Specialist
+# 👋 Hi, I'm Anjali Prajapati
 
-Building reliable, scalable backend systems with a focus on data consistency and real-time architecture.
+## Full Stack Developer | Aspiring SDE
+
+Passionate about building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anjalii40)
+
+</div>
 
 ---
 
@@ -13,7 +17,7 @@ Building reliable, scalable backend systems with a focus on data consistency and
 Open to SDE internships
 
 Email: anjaliiprajapati04@gmail.com  
-LinkedIn: [LINKEDIN_URL]  
+LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b)  
 GitHub: https://github.com/anjalii40
 
 ---
@@ -36,7 +40,7 @@ Real-time bidding system with race condition handling and instant bid propagatio
 
 **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, React.js, Redux Toolkit, Tailwind CSS
 
-[Live Demo](#) | [GitHub](#)
+[Live Demo](https://levich-internship-challenge-phi.vercel.app/) | [GitHub](https://github.com/anjalii40/Levich-Internship-Challenge)
 
 ### ReWear (Odoo Hackathon Project)
 
@@ -48,7 +52,7 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 
 **Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary, React.js, Tailwind CSS, Axios
 
-[Live Demo](#) | [GitHub](#)
+[Live Demo](https://rewearnew.netlify.app/)
 
 ---
 
