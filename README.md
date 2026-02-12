@@ -15,7 +15,7 @@ Passionate about building end-to-end solutions with robust backend systems, intu
 ## What I Focus On
 
 Real-time systems | Backend architecture | Data consistency | Scalable API design | 
-Data Structures and Algorithms | System Design 
+Data Structures and Algorithms | System Design | CS Fundamentals 
 
 ---
 
@@ -108,6 +108,7 @@ Email: anjaliiprajapati04@gmail.com
 LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b) 
 
 ---
+
 
 
 
