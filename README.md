@@ -98,9 +98,9 @@ Data Structures and Algorithms | Object Oriented Programming | Computer Science 
 Open to SDE internships
 
 Email: anjaliiprajapati04@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b)  
-GitHub: https://github.com/anjalii40
+LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b) 
 
 ---
+
 
 
