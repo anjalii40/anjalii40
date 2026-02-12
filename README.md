@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Anjali Prajapati
 
-## NITA'27 | Full Stack Developer | Aspiring SDE
+## NITA'27 | Full Stack Developer | Backend Focused
 
 </div>
 
@@ -14,7 +14,8 @@ Passionate about building end-to-end solutions with robust backend systems, intu
 
 ## What I Focus On
 
-Real-time systems | Backend architecture | Data consistency | Scalable API design
+Real-time systems | Backend architecture | Data consistency | Scalable API design | 
+Data Structures and Algorithms | System Design 
 
 ---
 
@@ -87,11 +88,17 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-## Core CS
-
-Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals | System Design
 
 ---
+
+## Achievements
+
+- Solved 800+ Data Structures and Algorithms Problems
+- Odoo Hackathon 2025 Finalist — Top 300 out of 19,000+ teams
+- Adobe India Hackathon 2025 — Selected for Round 2 from 250,000+ participants
+
+---
+
 
 ## Contact
 
@@ -101,6 +108,7 @@ Email: anjaliiprajapati04@gmail.com
 LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b) 
 
 ---
+
 
 
 
