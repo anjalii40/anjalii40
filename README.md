@@ -6,7 +6,7 @@
 
 </div>
 
-Passionate about building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
+Building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anjalii40)
 
@@ -14,10 +14,16 @@ Passionate about building end-to-end solutions with robust backend systems, intu
 
 ## What I Focus On
 
-Real-time systems | Backend architecture | Data consistency | Scalable API design | 
-Data Structures and Algorithms | System Design | CS Fundamentals 
+Real-time systems | Backend architecture | Data consistency | Scalable API design
 
 ---
+
+## Engineering Foundations
+
+Data Structures and Algorithms | System Design | Computer Science Fundamentals 
+
+---
+
 
 ## Featured Projects
 
@@ -102,12 +108,13 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 
 ## Contact
 
-Open to SDE internships
+Open to SDE Internship Opportunities
 
 Email: anjaliiprajapati04@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b) 
 
 ---
+
 
 
 
