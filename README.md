@@ -1,4 +1,6 @@
-# Hi , I'm Anjali Prajapati
+# Hi, I'm Anjali Prajapati
+
+## Backend Engineer | Systems Design Specialist
 
 Building reliable, scalable backend systems with a focus on data consistency and real-time architecture.
 
@@ -6,9 +8,47 @@ Building reliable, scalable backend systems with a focus on data consistency and
 
 ---
 
+## Contact
+
+Open to SDE internships
+
+Email: anjaliiprajapati04@gmail.com  
+LinkedIn: [LINKEDIN_URL]  
+GitHub: https://github.com/anjalii40
+
+---
+
 ## What I Focus On
 
 Real-time systems | Backend architecture | Data consistency | Scalable API design
+
+---
+
+## Featured Projects
+
+### Live Auction Platform
+
+Real-time bidding system with race condition handling and instant bid propagation across concurrent users.
+
+- Implemented Socket.io-based real-time bid updates with atomic database transactions to prevent race conditions
+- Built REST API with JWT authentication and role-based access control for sellers and bidders
+- Designed efficient MongoDB aggregation pipelines for auction state management and bid history tracking
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, React.js, Redux Toolkit, Tailwind CSS
+
+[Live Demo](#) | [GitHub](#)
+
+### ReWear (Odoo Hackathon Project)
+
+Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with integrated payment and inventory management.
+
+- Architected scalable backend for managing inventory, order workflows, and user transactions
+- Integrated authentication layer and RESTful API endpoints for seamless frontend integration
+- Optimized database schema for efficient product filtering, user profiles, and transaction history
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary, React.js, Tailwind CSS, Axios
+
+[Live Demo](#) | [GitHub](#)
 
 ---
 
@@ -49,7 +89,6 @@ Real-time systems | Backend architecture | Data consistency | Scalable API desig
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
@@ -57,6 +96,5 @@ Real-time systems | Backend architecture | Data consistency | Scalable API desig
 
 ## Core CS
 
-Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals
-
+Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals | System Design
 
