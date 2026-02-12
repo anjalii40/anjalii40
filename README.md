@@ -1,14 +1,14 @@
 <div align="center">
 
 # 👋 Hi, I'm Anjali Prajapati
-
+</div>
 ## NIT Agartala'27 | Full Stack Developer | Aspiring SDE
 
 Passionate about building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anjalii40)
 
-</div>
+
 
 ---
 
@@ -99,5 +99,6 @@ Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with in
 ## Core CS
 
 Data Structures and Algorithms | Object Oriented Programming | Computer Science Fundamentals | System Design
+
 
 
