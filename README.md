@@ -11,7 +11,7 @@
 ---
 
 ### About Me
-I am a software engineer focused on designing and implementing high-throughput real-time architectures, multi-agent AI pipelines, and robust backend services. My background spans core engineering disciplines, creative design leadership, and technical communication, enabling me to build solutions that are both computationally efficient and highly intuitive.
+I'm a software engineer focused on designing and implementing high-throughput real-time architectures, multi-agent AI pipelines, and robust backend services. My background spans core engineering disciplines, creative design leadership, and technical communication, enabling me to build solutions that are both computationally efficient and highly intuitive.
 
 ---
 
@@ -23,7 +23,7 @@ I am a software engineer focused on designing and implementing high-throughput r
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🛠️ Technical Skills
 
 **Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,7 +41,7 @@ I am a software engineer focused on designing and implementing high-throughput r
 
 ### 📂 Featured Projects
 
-#### 🧪 [Terminal-Based AI Benchmark Task Design](https://github.com/anjaliprajapati) | *Docker, Python, CLI Sandboxing, Test Design, Adversarial Evaluation*
+#### 🧪 [Terminal Benchmark Tasks for AI Agents](https://github.com/anjalii40/Terminal-Bench-Tasks) | *Docker, Python, CLI Sandboxing, Test Design, Adversarial Evaluation*
 > **Designed and built reproducible, sandboxed terminal tasks to evaluate whether AI coding agents can debug and solve software problems end to end.**
 * **Task Architecture:** Packaged realistic software environments containing broken/incomplete programs, Docker environments, instruction parameters, and automated verifiers to test agents in controlled environments.
 * **Complex Domains:** Authored assessment tasks spanning file corruption recovery, write-ahead logging (WAL) / ledger repair, asynchronous race conditions, and reasoning-heavy areas (physical simulations, inverter dead-time, stepper motor state reconstruction).
