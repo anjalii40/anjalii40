@@ -4,8 +4,9 @@
 </p>
 <p align="center">
   <a href="mailto:anjaliiprajapati04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/anjali-prajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/anjali-prajapati"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/anjali-prajapati-68aa9624b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anjalii40"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/anjalipms08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -47,19 +48,19 @@ I'm a software engineer focused on designing and implementing high-throughput re
 * **Complex Domains:** Authored assessment tasks spanning file corruption recovery, write-ahead logging (WAL) / ledger repair, asynchronous race conditions, and reasoning-heavy areas (physical simulations, inverter dead-time, stepper motor state reconstruction).
 * **Adversarial Design:** Developed hidden test suites, baseline agents, and oracle checks to guarantee task determinism, clarity, and offline testability, preventing trivial pattern-matching solutions.
 
-#### 🤖 [OnboardAI](https://github.com/anjaliprajapati) | *Go, WebRTC, WebSockets, Next.js, Gemini API, GCP*
+#### 🤖 [OnboardAI](https://google-solution-challenge-2026-5mb9.onrender.com) | *Go, WebRTC, WebSockets, Next.js, Gemini API, GCP*
 > **Real-time agentic KYC and fraud detection streaming system.**
 * Orchestrated **4 concurrent AI pipelines** (Deepgram STT, Google Vision CV, Gemini LLM, Geo-IP/device verification engine) processing live audio/video streams in parallel.
 * Built the backend using a high-performance **Go WebSocket server** and **WebRTC** to stream live call data with minimal latency.
 * Designed a deterministic risk-scoring engine that identifies VPN usage, consent anomalies, and location mismatches.
 
-#### 🧠 [Skill Assessment Agentic AI](https://github.com/anjaliprajapati) | *Next.js 15, TypeScript, Gemini API, Recharts, Tailwind CSS*
+#### 🧠 [Skill Assessment Agentic AI](https://skill-assessment-agentic-ai-1.onrender.com) | *Next.js 15, TypeScript, Gemini API, Recharts, Tailwind CSS*
 > **AI screening platform conducting dynamic 3-round interviews.**
 * Engineered a **4-stage chained LLM pipeline** (Parse → Interview → Evaluate → Result) with strict JSON schema prompting for parseable, structured responses.
 * Developed a real-time bluffing and anomaly detection system during ongoing candidate evaluations.
 * Created an NLP-based skill gap analyzer to extract and compare resume details against Job Descriptions, mapping candidate readiness using dynamic radar charts.
 
-#### 🔨 [Live Bidding Platform](https://github.com/anjaliprajapati) | *Node.js, Express, Socket.io, React, Docker, Vercel*
+#### 🔨 [Live Bidding Platform](https://levich-internship-challenge-phi.vercel.app/) | *Node.js, Express, Socket.io, React, Docker, Vercel*
 > **Event-driven auction platform handling concurrent bidding.**
 * Prevented race conditions on high-frequency bid updates using server-authoritative state synchronization.
 * Implemented real-time countdown timers and atomic updates, ensuring low-latency broadcasts to all connected clients.
