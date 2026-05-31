@@ -1,122 +1,74 @@
-<div align="center">
-
-# 👋 Hi, I'm Anjali Prajapati
-
-## NITA'27 | Full Stack Developer | Backend Focused
-
-</div>
-
-Building end-to-end solutions with robust backend systems, intuitive frontends, and a focus on data consistency and real-time architecture.
-
-![Profile Views](https://komarev.com/ghpvc/?username=anjalii40)
-
-
-
-## What I Focus On
-
-Real-time systems | Backend architecture | Data consistency | Scalable API design
+<h1 align="center">Hi, I'm Anjali Prajapati 👋</h1>
+<p align="center">
+  <b>NITA'27 | Full-Stack Engineer | Real-Time Systems & Agentic AI Specialist</b>
+</p>
+<p align="center">
+  <a href="mailto:anjaliiprajapati04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/anjali-prajapati"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/anjali-prajapati"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## Engineering Foundations
-
-Data Structures and Algorithms | System Design | Computer Science Fundamentals 
-
----
-
-
-## Featured Projects
-
-### Live Auction Platform
-
-Real-time bidding system with race condition handling and instant bid propagation across concurrent users.
-
-- Implemented Socket.io-based real-time bid updates with atomic database transactions to prevent race conditions
-- Built REST API with JWT authentication and role-based access control for sellers and bidders
-- Designed efficient MongoDB aggregation pipelines for auction state management and bid history tracking
-
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, Socket.io, JWT, React.js, Redux Toolkit, Tailwind CSS
-
-[Live Demo](https://levich-internship-challenge-phi.vercel.app/) | [GitHub](https://github.com/anjalii40/Levich-Internship-Challenge)
-
-### ReWear (Odoo Hackathon Project)
-
-Sustainable fashion marketplace enabling peer-to-peer wardrobe exchanges with integrated payment and inventory management.
-
-- Architected scalable backend for managing inventory, order workflows, and user transactions
-- Integrated authentication layer and RESTful API endpoints for seamless frontend integration
-- Optimized database schema for efficient product filtering, user profiles, and transaction history
-
-**Tech Stack:** Node.js, Express.js, MongoDB, Mongoose, JWT, Cloudinary, React.js, Tailwind CSS, Axios
-
-[Live Demo](https://rewearnew.netlify.app/)
+### About Me
+I am a software engineer focused on designing and implementing high-throughput real-time architectures, multi-agent AI pipelines, and robust backend services. My background spans core engineering disciplines, creative design leadership, and technical communication, enabling me to build solutions that are both computationally efficient and highly intuitive.
 
 ---
 
-## Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-## Frontend
-
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
+### Key Focus Areas & Experience
+* **Real-Time Data Streaming & Concurrency:** Experienced in building event-driven architectures, WebRTC video/audio pipes, WebSockets, and resolving race conditions in high-concurrency environments.
+* **Agentic Workflows & Benchmarking:** Specialized in building multi-stage chained LLM pipelines, prompt engineering with strict JSON schemas, and designing comprehensive terminal-based benchmark tasks (Terminal Bench) to evaluate agent capabilities in command-line environments.
+* **Technical Communication:** Authored and optimized 200+ articles on Data Structures and Algorithms for TakeUforward, simplifying complex computational concepts for a community of 1.2M+ learners.
+* **Design Leadership:** Former Head of Design at E-CELL NIT Agartala, directing branding strategies and leading a 10-member creative team.
 
 ---
 
-## Achievements
+### 🛠️ Technical Toolkit
 
-- Solved 800+ Data Structures and Algorithms Problems
-- Odoo Hackathon 2025 Finalist — Top 300 out of 19,000+ teams
-- Adobe India Hackathon 2025 — Selected for Round 2 from 250,000+ participants
+**Languages**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Backend & Databases**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Contact
-
-Open to SDE Internship Opportunities
-
-Email: anjaliiprajapati04@gmail.com  
-LinkedIn: [https://www.linkedin.com/in/anjali-prajapati-68aa9624b](https://www.linkedin.com/in/anjali-prajapati-68aa9624b) 
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
+### 📂 Featured Projects
 
+#### 🧪 [Terminal-Based AI Benchmark Task Design](https://github.com/anjaliprajapati) | *Docker, Python, CLI Sandboxing, Test Design, Adversarial Evaluation*
+> **Designed and built reproducible, sandboxed terminal tasks to evaluate whether AI coding agents can debug and solve software problems end to end.**
+* **Task Architecture:** Packaged realistic software environments containing broken/incomplete programs, Docker environments, instruction parameters, and automated verifiers to test agents in controlled environments.
+* **Complex Domains:** Authored assessment tasks spanning file corruption recovery, write-ahead logging (WAL) / ledger repair, asynchronous race conditions, and reasoning-heavy areas (physical simulations, inverter dead-time, stepper motor state reconstruction).
+* **Adversarial Design:** Developed hidden test suites, baseline agents, and oracle checks to guarantee task determinism, clarity, and offline testability, preventing trivial pattern-matching solutions.
 
+#### 🤖 [OnboardAI](https://github.com/anjaliprajapati) | *Go, WebRTC, WebSockets, Next.js, Gemini API, GCP*
+> **Real-time agentic KYC and fraud detection streaming system.**
+* Orchestrated **4 concurrent AI pipelines** (Deepgram STT, Google Vision CV, Gemini LLM, Geo-IP/device verification engine) processing live audio/video streams in parallel.
+* Built the backend using a high-performance **Go WebSocket server** and **WebRTC** to stream live call data with minimal latency.
+* Designed a deterministic risk-scoring engine that identifies VPN usage, consent anomalies, and location mismatches.
 
+#### 🧠 [Skill Assessment Agentic AI](https://github.com/anjaliprajapati) | *Next.js 15, TypeScript, Gemini API, Recharts, Tailwind CSS*
+> **AI screening platform conducting dynamic 3-round interviews.**
+* Engineered a **4-stage chained LLM pipeline** (Parse → Interview → Evaluate → Result) with strict JSON schema prompting for parseable, structured responses.
+* Developed a real-time bluffing and anomaly detection system during ongoing candidate evaluations.
+* Created an NLP-based skill gap analyzer to extract and compare resume details against Job Descriptions, mapping candidate readiness using dynamic radar charts.
 
+#### 🔨 [Live Bidding Platform](https://github.com/anjaliprajapati) | *Node.js, Express, Socket.io, React, Docker, Vercel*
+> **Event-driven auction platform handling concurrent bidding.**
+* Prevented race conditions on high-frequency bid updates using server-authoritative state synchronization.
+* Implemented real-time countdown timers and atomic updates, ensuring low-latency broadcasts to all connected clients.
+* Deployed full-stack service containers using Docker.
 
+---
+
+### 🏆 Key Achievements
+* **Adobe India Hackathon 2025:** Qualified for Round 2, placing in the top tiers among 250,000+ competitors.
+* **Odoo Hackathon 2025:** National Finalist, advancing to the Top 300 teams out of 19,000+ applicants.
+* **National Entrepreneurship Challenge (IIT Bombay):** National Finalist, securing 79th Rank among 5,000+ teams.
+* **Problem Solving:** Solved **500+ problems** across LeetCode and GeeksforGeeks.
